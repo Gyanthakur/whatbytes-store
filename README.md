@@ -1,6 +1,6 @@
 # 🛒 whatbytes-store
 
-A modern, responsive e-commerce store built with **Next.js**, **Tailwind CSS**, and **TypeScript**. It provides a sleek shopping experience with dynamic product pages, responsive design, and easy deployment via Vercel.
+A modern, responsive e-commerce store built with **Next.js**, **Tailwind CSS**, and **JavaScript**. It provides a sleek shopping experience with dynamic product pages, responsive design, and easy deployment via Vercel.
 
 ---
 
