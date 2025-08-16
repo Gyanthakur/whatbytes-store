@@ -84,7 +84,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 | 🏠 **Homepage**     | <img width="400" alt="Homepage" src="https://github.com/user-attachments/assets/48c02308-6b1e-45cd-9c90-cf22f23504bb" />     |
 | 📦 **Product Page** | <img width="400" alt="Product Page" src="https://github.com/user-attachments/assets/14a2a5d9-ef96-4fc1-94ba-564e12135f2d" /> |
 | 🛒 **Cart Page**    | <img width="400" alt="Cart Page" src="https://github.com/user-attachments/assets/7f0e80d2-e220-4fd3-808d-66096ab92087" />    |
-| 🛒 **Footer**    |<img width="1886" height="293" alt="image" src="https://github.com/user-attachments/assets/1ed9fadb-1bb3-4be6-a74e-b7245d87d8e8" />|
+| 🛒 **Footer**    |<img width="1889" height="870" alt="image" src="https://github.com/user-attachments/assets/48c2d60e-4d7e-4ae1-a38d-36bb30ec1bed" />|
 
 
 
