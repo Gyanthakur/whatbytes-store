@@ -81,10 +81,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 | Page Name           | Screenshot                                                                                                                   |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 🏠 **Homepage**     | <img width="400" alt="Homepage" src="https://github.com/user-attachments/assets/48c02308-6b1e-45cd-9c90-cf22f23504bb" />     |
-| 📦 **Product Page** | <img width="400" alt="Product Page" src="https://github.com/user-attachments/assets/14a2a5d9-ef96-4fc1-94ba-564e12135f2d" /> |
-| 🛒 **Cart Page**    | <img width="400" alt="Cart Page" src="https://github.com/user-attachments/assets/7f0e80d2-e220-4fd3-808d-66096ab92087" />    |
-| 🛒 **Footer**    |<img width="1889" height="870" alt="image" src="https://github.com/user-attachments/assets/48c2d60e-4d7e-4ae1-a38d-36bb30ec1bed" />|
+| 🏠 **Homepage**     |<img width="1892" height="870" alt="image" src="https://github.com/user-attachments/assets/bca95fe7-61a4-42c5-b89a-703db296cbad" /> |
+| 📦 **Product Page** | <img width="1889" height="873" alt="image" src="https://github.com/user-attachments/assets/53f3edf3-4c73-4295-b40d-ab747813c2f6" /> |
+| 🛒 **Cart Page**    | <img width="1885" height="869" alt="image" src="https://github.com/user-attachments/assets/99cbe6de-4a80-4c47-8d48-fd4839aa453b" />|
+| 🛒 **Footer**    |<img width="1891" height="869" alt="image" src="https://github.com/user-attachments/assets/44ead0b3-a57b-4f5e-bc7e-77ad1cea666e" />|
 
 
 
