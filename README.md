@@ -1,36 +1,131 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🛒 whatbytes-store
 
-## Getting Started
+A modern, responsive e-commerce store built with **Next.js**, **Tailwind CSS**, and **TypeScript**. It provides a sleek shopping experience with dynamic product pages, responsive design, and easy deployment via Vercel.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+- ⚡ **Next.js** for SSR & SSG
+- 🎨 **Tailwind CSS** for styling
+- 🔒 **TypeScript** for type safety
+- 🖼️ Optimized product image rendering
+- 📱 Fully responsive design
+- 🛍️ Dynamic product pages
+- 🚀 Deployed with Vercel
+
+---
+
+## 📂 Project Structure
+
+```bash
+whatbytes-store/
+├── components/       # Reusable UI components
+├── pages/            # Next.js pages (routing)
+├── public/           # Static assets
+├── styles/           # Global styles
+├── utils/            # Helper functions
+├── package.json      # Dependencies and scripts
+└── tailwind.config.js # TailwindCSS configuration
+```
+
+---
+
+## 🛠️ Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/gyanthakur/whatbytes-store.git
+cd whatbytes-store
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Screenshots
 
-## Learn More
+| Page Name           | Screenshot                                                                                                                   |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 🏠 **Homepage**     | <img width="400" alt="Homepage" src="https://github.com/user-attachments/assets/48c02308-6b1e-45cd-9c90-cf22f23504bb" />     |
+| 📦 **Product Page** | <img width="400" alt="Product Page" src="https://github.com/user-attachments/assets/14a2a5d9-ef96-4fc1-94ba-564e12135f2d" /> |
+| 🛒 **Cart Page**    | <img width="400" alt="Cart Page" src="https://github.com/user-attachments/assets/7f0e80d2-e220-4fd3-808d-66096ab92087" />    |
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<img width="1886" height="293" alt="image" src="https://github.com/user-attachments/assets/1ed9fadb-1bb3-4be6-a74e-b7245d87d8e8" />
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+
+### For Small Devices
+
+<img width="302" height="666" alt="image" src="https://github.com/user-attachments/assets/5fc7498e-4e5e-4776-8beb-27ed3be74d65" />
+<img width="304" height="666" alt="image" src="https://github.com/user-attachments/assets/402ac26d-d3d5-4232-a6e7-39bc5e27e921" />
+
+
+
+## 📦 Deployment
+
+Easily deploy with [Vercel](https://whatbytes-store-alpha.vercel.app/):
+
+```bash
+vercel
+```
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create a new branch (`feature/your-feature`)
+3. Commit changes (`git commit -m 'Add new feature'`)
+4. Push branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+---
+
+## 🎯 Contributors
+
+👤 **Gyan Pratap Singh** – *Developer & Maintainer*  
+📧 Contact: [gps.96169@gmail.com](mailto:gps.96169@gmail.com)  
+🔗 GitHub: [@gyanthakur](https://github.com/Gyanthakur)  
+
+
+## 🌐 Connect with Us
+
+Contact Us:  📲<a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%20how%20can%20I%20help%20you%3F">
+    <img src="https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
+  </a>
+
+- **Name**: Gyan Pratap Singh
+- **Email**: [gps.96169@gmail.com](mailto:gps.96169@gmail.com)
+- **GitHub**: [Gyanthakur](https://github.com/Gyanthakur)
+- **Portfolio**: [Gyan's Portfolio](https://gyan-pratap-singh.vercel.app/)
+
+---
+
+
+
+## Thank you for checking out the **Whatbytes Store** project! Happy coding! 😊
+
+---
+## ⭐ Support
+Give a ⭐ if you like this project!
+
+---
+Made with ❤️ by Gyan Pratap Singh
+
+### ⭐ Show Some Love!
+
+If you like this project, don't forget to leave a **⭐ Star** on GitHub! 🚀
