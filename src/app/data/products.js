@@ -74,7 +74,7 @@ const products = [
     title: "Smartphone",
     price: 699,
     brand: "Apple",
-    image: "/Smartphone.jpg",
+    image: "/Smartphone1.png",
     category: "Electronics",
     rating: 4.5,
     description: "Lorem ipsum dolor amet, consectetur euisagend.",

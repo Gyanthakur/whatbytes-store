@@ -32,7 +32,7 @@ export default function ProductDetail() {
 					alt={product.title}
 					width={500}
 					height={500}
-					className="object-cover w-full h-[400px]"
+					className="object-contain w-full h-[400px]"
 				/>
 			</div>
 
