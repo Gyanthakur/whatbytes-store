@@ -2,6 +2,7 @@
 import { useCart } from "../context/CartContext";
 import { useRouter } from "next/navigation";
 import toast from "react-hot-toast";
+import Header from "../components/Header";
 
 export default function CartPage() {
 	const { cart, removeFromCart, updateQuantity, clearCart } = useCart();
@@ -23,6 +24,8 @@ export default function CartPage() {
 	};
 
 	return (
+		<>
+		<Header />
 		<div className="container mx-auto px-6 py-10">
 			<h1 className="text-3xl font-bold mb-8">Shopping Cart</h1>
 
@@ -115,5 +118,6 @@ export default function CartPage() {
 				</div>
 			)}
 		</div>
+		</>
 	);
 }

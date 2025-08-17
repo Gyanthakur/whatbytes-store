@@ -6,6 +6,7 @@ import products from "../../data/products";
 import { useCart } from "../../context/CartContext";
 import { ShoppingCart, Minus, Plus } from "lucide-react";
 import toast from "react-hot-toast";
+import Header from "@/app/components/Header";
 
 export default function ProductDetail() {
 	const { id } = useParams();
@@ -20,7 +21,10 @@ export default function ProductDetail() {
 		toast.success(`${qty} × ${product.title} added to cart!`);
 	};
 
+
 	return (
+		<>
+		<Header/>
 		<div className="container mx-auto p-6 grid md:grid-cols-2 gap-10">
 			<div className="border rounded-2xl overflow-hidden">
 				<Image
@@ -34,9 +38,13 @@ export default function ProductDetail() {
 
 			<div className="space-y-6">
 				<h1 className="text-2xl font-bold">{product.title}</h1>
-				<p className="text-xl font-semibold text-green-600">₹{product.price}</p>
+				<p className="text-xl font-semibold text-green-600">${product.price}</p>
 				<p className="text-gray-600">{product.description}</p>
 				<p className="text-sm text-gray-500">Category: {product.category}</p>
+				<p className="text-sm text-gray-500">Brand: {product.brand}</p>
+				<p className="text-sm text-gray-500">Rating: {product.rating}</p>
+				
+				
 
 				<div className="flex items-center gap-4">
 					<button
@@ -62,5 +70,6 @@ export default function ProductDetail() {
 				</button>
 			</div>
 		</div>
+		</>
 	);
 }

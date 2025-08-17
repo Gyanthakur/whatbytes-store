@@ -13,7 +13,7 @@ export default function Home() {
 	const [searchQuery, setSearchQuery] = useState("");
 	return (
 		<div>
-			{/* <Header onSearch={setSearchQuery} /> */}
+			<Header onSearch={setSearchQuery} />
 
 			<main className="flex gap-8 p-6">
 				<Sidebar

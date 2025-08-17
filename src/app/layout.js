@@ -1,5 +1,4 @@
 import Footer from "./components/Footer";
-import Header from "./components/Header";
 import { CartProvider } from "./context/CartContext";
 import { Toaster } from "react-hot-toast";
 import "./globals.css";
@@ -9,16 +8,12 @@ export const metadata = {
 	description: "Whatbytes store built with Next.js",
 };
 
-export default function RootLayout({ children }) {
-	// const [searchQuery, setSearchQuery] = useState("");
+export default function RootLayout({ children, searchQuery, setSearchQuery }) {
 	return (
 		<html lang="en">
 			<body className="bg-gray-100 text-gray-800">
 				<CartProvider>
-					<Header />
-					<main className="container min-h-screen mx-auto px-4 py-6">
-						{children}
-					</main>
+					<main className="container min-h-screen ">{children}</main>
 				</CartProvider>
 				<Footer />
 				<Toaster position="top-right" reverseOrder={false} />
